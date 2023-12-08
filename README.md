@@ -28,23 +28,27 @@ Feel free to connect with us through our official channels:
 - **Email**: [wintweaks11@gmail.com](mailto:wintweaks11@gmail.com)
 - **Website**: [WinTweaks11](https://wintweaks11.weebly.com/)
 
-
 We look forward to building, sharing, and growing together. Welcome to WinTweaks11!
 
 Happy coding,
 Dev_WinTweaks11 🚀
-
-
-From
-
+<br>
+<br>
+<br>
+<br>
+_From_
+<br>
+<br>
+<br>
+<br>
 -------------------------------
 🚀 **WinTweaks11: Open Source Innovators**
 
 Bringing Innovation to Technology
 
-🌐 **Website**: [WinTweaks11](https://wintweaks11.weebly.com/)
-📧 **Email**: [wintweaks11@gmail.com](mailto:wintweaks11@gmail.com)
-👥 **GitHub**: [@Dev_WinTweaks11](https://github.com/WinTweaks11)
+🌐 **Website**: [WinTweaks11](https://wintweaks11.weebly.com/) <br>
+📧 **Email**: [wintweaks11@gmail.com](mailto:wintweaks11@gmail.com) <br>
+👥 **GitHub**: [@Dev_WinTweaks11](https://github.com/WinTweaks11) <br>
 
 Join the Open Source Movement!
 
