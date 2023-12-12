@@ -64,11 +64,9 @@ Stay Connected for the Latest Tech Updates.
 <br>
 <br>
 <br>
-Copyright:
-- (c)WinTweaks11
-- (C)W.O.U.L. 
-<br>
-<br>
+Copyright:<br>
+- (c)WinTweaks11<br>
+- (C)W.O.U.L. <br>
 <br>
 <br>
 Note:
