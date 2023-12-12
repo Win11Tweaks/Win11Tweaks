@@ -1,6 +1,8 @@
 # Hello, we are WinTweaks11👋, 
 
-Welcome to the world of WinTweaks11, where technology meets innovation! I'm Dev_WinTweaks11, and I'm thrilled to share our journey with you. We from WinTweaks11, an open-source(READ: Twist) organization fueled by passion and driven by innovation. We always wanted to dive deeper and deeper into a project until we finaly found what we were seeking for! And we taught why don't share it with you?! So here we are and we're ready for some action!..
+Welcome to the world of WinTweaks11, where technology meets innovation! I'm Dev_WinTweaks11, and I'm thrilled to share our journey with you. 
+We from WinTweaks11, an open-source(READ: Twist) organization fueled by passion and driven by innovation. We always wanted to dive deeper and deeper into a project until we finaly found what we were seeking for! And we taught why don't share it with you?! 
+So here we are and we're ready for some action!..
 
 ## About Us
 
