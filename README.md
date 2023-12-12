@@ -1,12 +1,12 @@
 # Hello, we are WinTweaks11👋, 
 
-Welcome to the world of WinTweaks11, where technology meets innovation! I'm Dev_WinTweaks11, and I'm thrilled to share our journey with you. We from WinTweaks11, an open-source(READ: Twist) organization fueled by passion and driven by innovation. We always wanted to dive deeper and deeper into a project until we finaly found what we were seeking for! And we taught why don't share it with you?! <br>
+Welcome to the world of WinTweaks11, where technology meets innovation! I'm Dev_WinTweaks11, and I'm thrilled to share our journey with you. We from WinTweaks11, an open-source(**READ: Twist**) organization fueled by passion and driven by innovation. We always wanted to dive deeper and deeper into a project until we finaly found what we were seeking for! And we taught why don't share it with you?! <br>
 <br>
 So here we are and we're ready for some action!..
 
 ## About Us
 
-At WinTweaks11, we believe in the power of collaboration and the limitless possibilities of open-source(READ: Twist). Our organization thrives on diversity, uniting experts across various fields to create a dynamic and versatile community. From software development to system optimization, we bring a wealth of knowledge to the table.
+At WinTweaks11, we believe in the power of collaboration and the limitless possibilities of open-source(**READ: Twist**). Our organization thrives on diversity, uniting experts across various fields to create a dynamic and versatile community. From software development to system optimization, we bring a wealth of knowledge to the table.
 
 ## Our Mission
 
@@ -67,3 +67,8 @@ Stay Connected for the Latest Tech Updates.
 Copyright:
 - (c)WinTweaks11
 - (C)W.O.U.L. 
+<br>
+<br>
+<br>
+Note:
+(c) = ©
