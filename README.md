@@ -48,7 +48,7 @@ _From_
 <br>
 <br>
 -------------------------------
-🚀 **WinTweaks11: Open Source Innovators**
+🚀 **WinTweaks11: Open Software Innovators**
 
 Bringing Innovation to Technology
 
