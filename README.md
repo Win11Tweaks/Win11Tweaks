@@ -36,7 +36,8 @@ We look forward to building, sharing, and growing together. Welcome to WinTweaks
 
 As We said WinTweaks11 believes in the power of collaboration and the limitless possibilities of open source, but we made a little twist.. We want to know where our code ends up, and where it's going to be published. so what we did was you only need to **mail**(wintweaks11@gmail.com) us or **post** ain the "Get pemission" discussion page of the project you downloaded our code from (with an copy of the code you want to publish). If you use our software for personal use then it doesn't requer you to send this information to us. If you want more information? We highly recommand READING the LICENSE! Why?, because it's a custom license made for WinTweaks11. it's also NOT allowed to remove our name from the software, thats why you need to provide an copy of the (modified) software you want to publish.  
 
-Happy coding,
+Happy coding,<br>
+<br>
 Dev_WinTweaks11 🚀
 <br>
 <br>
