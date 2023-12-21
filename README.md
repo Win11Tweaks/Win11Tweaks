@@ -35,31 +35,25 @@ We look forward to building, sharing, and growing together. Welcome to WinTweaks
 ## Twist
 
 As We said WinTweaks11 believes in the power of collaboration and the limitless possibilities of open source, but we made a little twist.. We want to know where our code ends up, and where it's going to be published. so what we did was you only need to **mail**(wintweaks11@gmail.com) us or **post** ain the "Get pemission" discussion page of the project you downloaded our code from (with an copy of the code you want to publish). If you use our software for personal use then it doesn't requer you to send this information to us. If you want more information? We highly recommand READING the LICENSE! Why?, because it's a custom license made for WinTweaks11. it's also NOT allowed to remove our name from the software, thats why you need to provide an copy of the (modified) software you want to publish.  
-
+<br>
 Happy coding,
 Dev_WinTweaks11 🚀
 <br>
 <br>
-<br>
-<br>
-_From_
-<br>
-<br>
+Head Operator of the,
+WinTweaks11 Team
 <br>
 <br>
 -------------------------------
-🚀 **WinTweaks11: Open Software Innovators**
+🚀 WinTweaks11 - Pioneers in Software Creativity
 
-Bringing Innovation to Technology
+🌐 Visit Us: wintweaks11.weebly.com
+📧 Contact: wintweaks11@gmail.com
+👾 GitHub Codebase: @Dev_WinTweaks11
 
-🌐 **Website**: [WinTweaks11](https://wintweaks11.weebly.com/) <br>
-📧 **Email**: [wintweaks11@gmail.com](mailto:wintweaks11@gmail.com) <br>
-👥 **GitHub**: [@Dev_WinTweaks11](https://github.com/WinTweaks11) <br>
-
-Join the Open Source Movement! (with a twist)
+Empowering Tech Enthusiasts with WinTweaks11!
 
 Stay Connected for the Latest Tech Updates.
-
 -------------------------------
 <br>
 <br>
